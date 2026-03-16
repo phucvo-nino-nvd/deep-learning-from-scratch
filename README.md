@@ -69,9 +69,7 @@ jupyter notebook
 ## 📖 How to Use
 
 Each notebook is self-contained and includes:
-- **Theory**: Mathematical explanations of the model
 - **Implementation**: Step-by-step code from scratch
-- **Visualization**: Graphs and plots to understand model behavior
 - **Examples**: Practical usage examples
 
 Start with `foundations/fnn.ipynb` if you're new to neural networks, then explore the other models based on your interests.
