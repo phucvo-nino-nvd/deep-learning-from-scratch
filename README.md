@@ -109,10 +109,6 @@ Contributions are welcome! Feel free to:
 - Fix bugs or add optimizations
 - Submit pull requests
 
-## 📄 License
-
-This project is open-source. Please check the LICENSE file for details.
-
 ## 🔗 Resources
 
 ### Courses & Tutorials
