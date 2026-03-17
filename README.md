@@ -44,7 +44,7 @@ deep-learning-from-scratch/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deep-learning-from-scratch.git
+git clone https://github.com/phucvo-nino-nvd/deep-learning-from-scratch.git
 cd deep-learning-from-scratch
 ```
 
