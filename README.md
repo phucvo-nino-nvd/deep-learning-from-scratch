@@ -2,11 +2,11 @@
 
 A comprehensive educational repository implementing deep learning models **from scratch** using Python. This project covers fundamental neural network architectures and advanced models, helping you understand how they work at a low level.
 
-## 📋 Overview
+## Overview
 
 This repository contains Jupyter notebooks that implement various deep learning models and architectures. Each notebook provides detailed explanations of the theory and practical implementation. Perfect for students and practitioners who want to understand the math and code behind popular deep learning architectures.
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 deep-learning-from-scratch/
@@ -22,7 +22,7 @@ deep-learning-from-scratch/
     └── yolo_v1.ipynb           # YOLO v1 Object Detection
 ```
 
-## 📚 What's Included
+## What's Included
 
 ### Foundations
 - **FNN (Feedforward Neural Networks)**: weight initialization, forward pass, backpropagation, and gradient descent — all written by hand without any PyTorch `nn.Module`.
@@ -34,7 +34,7 @@ deep-learning-from-scratch/
 - **Transformer**: The modern transformer architecture used in NLP
 - **YOLO v1**: Real-time object detection model
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.7+
@@ -66,7 +66,7 @@ jupyter notebook
 
 5. Open any notebook and start learning!
 
-## 📖 How to Use
+## How to Use
 
 Each notebook is self-contained and includes:
 - **Implementation**: Step-by-step code from scratch
@@ -74,7 +74,7 @@ Each notebook is self-contained and includes:
 
 Start with `foundations/fnn.ipynb` if you're new to neural networks, then explore the other models based on your interests.
 
-## 💡 Learning Path
+## Learning Path
 
 **Beginner:**
 1. `foundations/fnn.ipynb` - Start here!
@@ -88,20 +88,20 @@ Start with `foundations/fnn.ipynb` if you're new to neural networks, then explor
 **Advanced:**
 1. `models/yolo_v1.ipynb` - Complex object detection
 
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 
 Core libraries used:
 - **PyTorch**: Deep learning framework
 - **NumPy**: Numerical computations
 
-## 📝 Notes
+## Notes
 
 - All implementations are designed for educational purposes
 - Some models may not be fully optimized for production use
 - Notebooks include both mathematical derivations and code implementations
 - Feel free to modify and experiment with the code!
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Add new model implementations
@@ -109,7 +109,7 @@ Contributions are welcome! Feel free to:
 - Fix bugs or add optimizations
 - Submit pull requests
 
-## 🔗 Resources
+## Resources
 
 ### Courses & Tutorials
 - [Andrew Ng's Deep Learning Course](https://www.deeplearning.ai/)
@@ -120,7 +120,7 @@ Contributions are welcome! Feel free to:
 - [Going Deeper with Convolutions (Inception)](https://arxiv.org/abs/1409.4842)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-## ❓ FAQ
+## FAQ
 
 **Q: Do I need GPU to run these notebooks?**
 A: No, these notebooks are designed to work on CPU. However, a GPU will significantly speed up training.
